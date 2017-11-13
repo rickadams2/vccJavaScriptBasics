@@ -40,3 +40,30 @@ Vcc coursework 'JavaScript basics '
         * 
  * Array iteration 8 methods
     * 
+ * Objects 
+    * 
+ * Objects part 2 
+    *
+ * Ajax 
+    * 
+ * JSON 
+    * 
+* Closures 
+   * 
+* THIS keyword  
+   * 
+* Promises 
+   * 
+Desktop notifications 
+   * 
+* Immediately invoked function experssion 
+   *
+* Strict Mode - "use strict" 
+   *
+* setInterval and setTimeout: timing events 
+  *
+* Try, catch, finally, trow - error handling   
+  * Dates  
+   
+   
+    
