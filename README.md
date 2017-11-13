@@ -2,35 +2,35 @@
 Vcc coursework 'JavaScript basics ' 
 
 
-    * Variables   
+   * Variables   
         * 
-    * Datatypes
+   * Datatypes
         * 
-    * Numbers
+   * Numbers
         * 
-    * Strings [bracket notation]
+   * Strings [bracket notation]
         * 
-    * 20 strings methods
+   * 20 strings methods
         * 
-    * Functions
+   * Functions
         * 
-    * Hoisting
+   * Hoisting
         * 
-    * Comparison Operators & If Else 
+   * Comparison Operators & If Else 
         * 
-    * == VS === 
+   * == VS === 
         * 
-    * Logical operators && truuks met short-circuit evaluation
+   * Logical operators && truuks met short-circuit evaluation
         * 
-    * Ternay Operator
+   * Ternay Operator
         * 
-    * Switch statement 
+   * Switch statement 
         * 
-    * Arrays
+   * Arrays
         * 
-    * Copying Arrays (Deep and Shallow)
+   * Copying Arrays (Deep and Shallow)
         * 
-    * Random numbers paselint 
+   * Random numbers paselint 
         * 
   * Do / While 
         *   
