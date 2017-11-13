@@ -4,7 +4,9 @@ Vcc coursework 'JavaScript basics '
 
    * Variables   
         * 
+        
    * Datatypes
+       
         * 
    * Numbers
         * 
