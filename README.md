@@ -1,5 +1,7 @@
 # vccJavaScriptBasics
 Vcc coursework 'JavaScript basics ' 
+
+
     * Variables   
         * 
     * Datatypes
